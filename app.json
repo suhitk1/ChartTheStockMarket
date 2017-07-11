@@ -1,7 +1,7 @@
 {
   "name": "Chart the stock market",
   "description": "A Node.js app that uses the Markit On Demand APIs to chart the stock market.",
-  "repository": "https://github.com/scottwestover/freecodecamp-chart-the-stock-market",
+  "repository": "https://github.com/suhitk1/ChartTheStockMarket",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
